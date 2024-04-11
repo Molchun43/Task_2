@@ -1,0 +1,16 @@
+        body {
+        background: hwb(206 82% 1%) url(); /* Цвет фона  */
+        color: hsl(0, 0%, 0%); /* Цвет текста */
+        }
+
+        a {
+                font-weight: bold;  /* жирность */  
+                font-size:large /* большой размер */  
+        } 
+
+
+        h2 {
+                font-weight: normal
+        }
+
+        
